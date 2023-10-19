@@ -10,5 +10,5 @@ input.addEventListener('input', function(event){
 button.addEventListener('click', function(event){
     console.log(input.value);
     input.value = '';
-    dublicateField.value = '';
+    dublicateField.textContent = '';
 })
