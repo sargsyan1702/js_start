@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+ul {
+    display: flex;
+}
+li {
+    position: static;
+    right: 0;
+    left: 0;
+    margin: 10px;
+    list-style: none;
+}
+a {
+    color: #45484a;
+    margin-right: 25px;
+    padding: 0 px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover {
+    background-color: rgb(180, 211, 208);
+    border-radius: 5%
+    ;
+}

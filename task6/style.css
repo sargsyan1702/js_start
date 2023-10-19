@@ -1,0 +1,25 @@
+header {
+    position: relative;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    top: 40px;
+}
+#trafficLightGreen {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+}
+#trafficLightYellow {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+}
+#trafficLightRed {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+}

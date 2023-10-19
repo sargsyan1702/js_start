@@ -1,0 +1,9 @@
+body {
+    margin: auto;
+    padding-left: 10px;
+    background-color:rgb(220, 245, 221)
+}
+p {
+    text-align: start;
+    font-size: larger;
+}
